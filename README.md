@@ -1,1 +1,1 @@
-# Tencent
+Scrapy CrawlSpider
